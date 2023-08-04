@@ -110,6 +110,7 @@ container {
 @media only screen and (max-width: 600px){
 .main-login{
     flex-direction: column;
+    height: 100%;
 }
 .left-login > h1{
     display: none;
